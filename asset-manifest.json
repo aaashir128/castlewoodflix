@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/castlewoodflix/static/css/main.f69f56bd.chunk.css",
+    "main.js": "/castlewoodflix/static/js/main.7bf37c5f.chunk.js",
+    "main.js.map": "/castlewoodflix/static/js/main.7bf37c5f.chunk.js.map",
+    "runtime-main.js": "/castlewoodflix/static/js/runtime-main.2e88245b.js",
+    "runtime-main.js.map": "/castlewoodflix/static/js/runtime-main.2e88245b.js.map",
+    "static/js/2.e03ca3b7.chunk.js": "/castlewoodflix/static/js/2.e03ca3b7.chunk.js",
+    "static/js/2.e03ca3b7.chunk.js.map": "/castlewoodflix/static/js/2.e03ca3b7.chunk.js.map",
+    "static/js/3.ec9e9947.chunk.js": "/castlewoodflix/static/js/3.ec9e9947.chunk.js",
+    "static/js/3.ec9e9947.chunk.js.map": "/castlewoodflix/static/js/3.ec9e9947.chunk.js.map",
+    "index.html": "/castlewoodflix/index.html",
+    "static/css/main.f69f56bd.chunk.css.map": "/castlewoodflix/static/css/main.f69f56bd.chunk.css.map",
+    "static/js/2.e03ca3b7.chunk.js.LICENSE.txt": "/castlewoodflix/static/js/2.e03ca3b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e88245b.js",
+    "static/js/2.e03ca3b7.chunk.js",
+    "static/css/main.f69f56bd.chunk.css",
+    "static/js/main.7bf37c5f.chunk.js"
+  ]
+}
